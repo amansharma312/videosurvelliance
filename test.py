@@ -4,7 +4,7 @@ from keras.models import load_model
 import argparse
 from PIL import Image
 import imutils
-
+#aman
 
 def mean_squared_loss(x1,x2):
     difference=x1-x2
